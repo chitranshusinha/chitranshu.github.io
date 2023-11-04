@@ -227,6 +227,21 @@ h1{
   width: 65%;
   margin-top:-5%;
 }
+footer{
+  background: #111;
+  padding: 15px 23px;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+}
+footer span a{
+  color: crimson;
+  text-decoration: none;
+}
+footer span a:hover{
+  text-decoration: non;
+  color: #fff;
+}
 
 
 
